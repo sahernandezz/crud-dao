@@ -1,0 +1,69 @@
+.body {
+    -fx-background-color: #f3f0f0;
+}
+
+.text{
+    -fx-background-color: #EEEEEE;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+
+.color-div {
+    -fx-background-color: #5e72e4;
+}
+
+.menu {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 12px;
+    -fx-border-radius: 12px;
+}
+
+.panel{
+    -fx-background-color: #FFFFFF;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.button-registrar{
+    -fx-background-color: #12e299;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+
+}
+
+.button-registrar:hover {
+    -fx-background-color: #13b97f;
+}
+
+.button-eliminar{
+    -fx-background-color: #ea395a;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.button-eliminar:hover {
+    -fx-background-color: #ab2a41;
+}
+
+.button-actualizar{
+    -fx-background-color: #ffc700;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.button-actualizar:hover {
+    -fx-background-color: #e1a709;
+}
+
+.button-ok{
+    -fx-background-color: #5e72e4;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+
+}
+
+.button-ok:hover {
+    -fx-background-color: #4a56ae;
+}
+
